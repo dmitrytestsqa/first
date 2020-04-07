@@ -1,4 +1,4 @@
 Hello word!
 123456
 Good bye!
-line from user1
+new line from user1
