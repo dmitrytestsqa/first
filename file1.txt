@@ -1,4 +1,5 @@
 Hello word!
 123456
 another line from user1
+line from user2
 new line from user1
