@@ -3,3 +3,4 @@ Hello word!
 line from user1
 line from user2
 some change
+some new feature
