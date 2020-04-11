@@ -2,3 +2,4 @@ good bye!
 some other line
 line from user2
 new another line from user2
+critical bu fixed
