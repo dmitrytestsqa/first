@@ -1,5 +1,3 @@
 Hello word!
 123456
-add new feature
-add new feature1
-somee new feature
+line from user1
