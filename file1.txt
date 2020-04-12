@@ -2,3 +2,4 @@ Hello word!
 123456
 add new feature
 add new feature1
+some new feature
