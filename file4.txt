@@ -1,3 +1,2 @@
 hello from user2
 hello from user1
-some new feature
