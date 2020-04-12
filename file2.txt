@@ -3,3 +3,4 @@ some other line
 line from user2
 new another line from user2
 criticall bug fix
+line from user2
