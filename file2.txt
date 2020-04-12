@@ -2,4 +2,4 @@ good bye!
 some other line
 line from user2
 new another line from user2
-critical bug fix
+criticall bug fix
