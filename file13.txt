@@ -1,1 +1,2 @@
 add line in feature2
+second line in feature
